@@ -25,6 +25,7 @@ This repository provides an automated installation script to set up Jenkins on a
 2. Download and run the script:
 
 ```bash
-curl -O https://raw.githubusercontent.com/<your-username>/jenkins-installer/main/install_jenkins.sh
+curl -O https://raw.githubusercontent.com/rutvik-3377/jenkins-installer/main/install_jenkins.sh
+
 chmod +x install_jenkins.sh
 ./install_jenkins.sh
